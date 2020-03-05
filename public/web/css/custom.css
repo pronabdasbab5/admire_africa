@@ -1,0 +1,40 @@
+#ts-speakers-standard .ts-speaker .view-speaker {
+	width: 90%;
+	border: 0 solid #ddd;
+}
+#ts-speakers-standard .ts-speaker .view-speaker a {
+	color: #fff;
+    border: 2px solid #ddd;
+    padding: 0 4px;
+    font-size: 18px;
+    border-radius: 3px;
+}
+#ts-speakers-standard .ts-speaker .view-speaker a:hover {
+	color: #e7015e;
+	border-color: #e7015e;
+}
+.ts-pricing .row>div {
+	display: table;
+	margin: auto;
+}
+.hero-area .banner-item {
+	min-height: 550px;
+	background-size: contain;
+}
+.hero-area .banner-item:before {
+	background: transparent;
+}
+.header.header-transparent .navbar-brand img {
+	width: 46%;
+    background: #fff;
+    padding: 10px;
+    margin-top: -10px;
+    border-radius: 0 0 10px 10px;   
+}
+.header.sticky .navbar-brand img {
+    max-height: 72px;
+    width: auto!important;
+    margin: 0;
+    padding: 3px 10px;
+    border-radius: 0;    
+}
